@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>Deploy Test</code>
+          <code>React App to Docker Test</code>
         </p>
       </header>
     </div>
